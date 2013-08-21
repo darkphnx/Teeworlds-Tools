@@ -1,0 +1,3 @@
+[submodule "GeekTool-Scripts"]
+	path = GeekTool-Scripts
+	url = https://github.com/darkphnx/GeekTool-Scripts.git
